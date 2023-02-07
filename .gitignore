@@ -1,4 +1,8 @@
-/timlog
-/fixed-timer
-/phpinfo
-.ftpquota
+*
+!.gitignore
+!.htaccess
+!index.html
+!css
+!fonts
+!images
+!js
